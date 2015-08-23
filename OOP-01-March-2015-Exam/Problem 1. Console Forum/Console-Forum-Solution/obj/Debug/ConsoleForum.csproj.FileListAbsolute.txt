@@ -1,0 +1,9 @@
+C:\Users\George\Desktop\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe.config
+C:\Users\George\Desktop\Console-Forum-Skeleton\obj\Debug\ConsoleForum.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe
+C:\Users\George\Desktop\Console-Forum-Skeleton\bin\Debug\ConsoleForum.pdb
+C:\Users\George\Desktop\Console-Forum-Skeleton\obj\Debug\ConsoleForum.exe
+C:\Users\George\Desktop\Console-Forum-Skeleton\obj\Debug\ConsoleForum.pdb
+D:\Programming\OOP\SoftUni OOP Exam - 01.03.2015\Problem 1. Console Forum\Console-Forum-Solution\bin\Debug\ConsoleForum.exe.config
+D:\Programming\OOP\SoftUni OOP Exam - 01.03.2015\Problem 1. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.exe
+D:\Programming\OOP\SoftUni OOP Exam - 01.03.2015\Problem 1. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.pdb
