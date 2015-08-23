@@ -1,0 +1,6 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\obj\Debug\04. SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.pdb
