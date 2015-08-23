@@ -1,0 +1,6 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Delegates-and-Events-Homework\02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Delegates-and-Events-Homework\02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Delegates-and-Events-Homework\02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Delegates-and-Events-Homework\02. AsynchronousTimer\obj\Debug\02. AsynchronousTimer.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Delegates-and-Events-Homework\02. AsynchronousTimer\obj\Debug\_02.AsynchronousTimer.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Delegates-and-Events-Homework\02. AsynchronousTimer\obj\Debug\_02.AsynchronousTimer.pdb
