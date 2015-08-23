@@ -1,0 +1,8 @@
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\bin\Debug\_03.GenericList.exe.config
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\obj\Debug\03. GenericList.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\bin\Debug\_03.GenericList.exe
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\bin\Debug\_03.GenericList.pdb
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\obj\Debug\_03.GenericList.exe
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\obj\Debug\_03.GenericList.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\bin\Debug\_04.GenericListVersion.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\03. GenericList\bin\Debug\_04.GenericListVersion.pdb

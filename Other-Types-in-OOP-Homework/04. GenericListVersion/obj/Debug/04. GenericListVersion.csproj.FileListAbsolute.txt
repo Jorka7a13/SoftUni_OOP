@@ -1,0 +1,5 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\04. GenericListVersion\bin\Debug\_04.GenericListVersion.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\04. GenericListVersion\bin\Debug\_04.GenericListVersion.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\04. GenericListVersion\bin\Debug\_04.GenericListVersion.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\04. GenericListVersion\obj\Debug\_04.GenericListVersion.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\04. GenericListVersion\obj\Debug\_04.GenericListVersion.pdb
