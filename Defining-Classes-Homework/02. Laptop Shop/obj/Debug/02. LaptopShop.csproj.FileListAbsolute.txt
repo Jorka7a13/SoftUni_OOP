@@ -1,6 +1,0 @@
-C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
-C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe
-C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.pdb
-C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
-C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb
-C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Defining-Classes-Homework\02. Laptop Shop\obj\Debug\02. LaptopShop.csprojResolveAssemblyReference.cache
