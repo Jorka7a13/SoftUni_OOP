@@ -1,0 +1,9 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Exception-Handling-Homework\02. EnterNumbers\bin\Debug\_02.EnterNumbers.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Exception-Handling-Homework\02. EnterNumbers\bin\Debug\_02.EnterNumbers.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Exception-Handling-Homework\02. EnterNumbers\bin\Debug\_02.EnterNumbers.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Exception-Handling-Homework\02. EnterNumbers\obj\Debug\_02.EnterNumbers.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Exception-Handling-Homework\02. EnterNumbers\obj\Debug\_02.EnterNumbers.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Exception-Handling-Homework\02. EnterNumbers\obj\Debug\02. EnterNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_OOP\03. Exception-Handling-Homework\Problem 2. EnterNumbers\bin\Debug\_02.EnterNumbers.exe.config
+D:\GitHub\SoftUni_OOP\03. Exception-Handling-Homework\Problem 2. EnterNumbers\obj\Debug\_02.EnterNumbers.exe
+D:\GitHub\SoftUni_OOP\03. Exception-Handling-Homework\Problem 2. EnterNumbers\obj\Debug\_02.EnterNumbers.pdb
