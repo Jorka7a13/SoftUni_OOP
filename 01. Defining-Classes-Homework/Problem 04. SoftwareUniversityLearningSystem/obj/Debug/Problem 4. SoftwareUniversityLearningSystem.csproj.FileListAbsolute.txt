@@ -1,0 +1,9 @@
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.pdb
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 4. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 4. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 4. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.pdb
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.pdb

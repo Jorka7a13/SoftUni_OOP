@@ -1,0 +1,9 @@
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 2. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 2. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 2. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 02. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 02. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb

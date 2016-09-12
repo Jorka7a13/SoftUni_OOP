@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 1. Persons\bin\Debug\_01.Persons.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 1. Persons\obj\Debug\_01.Persons.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 1. Persons\obj\Debug\_01.Persons.pdb
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 01. Persons\bin\Debug\_01.Persons.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 01. Persons\obj\Debug\_01.Persons.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 01. Persons\obj\Debug\_01.Persons.pdb

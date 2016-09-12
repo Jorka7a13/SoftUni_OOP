@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 3. PC_Catalog\bin\Debug\_03.PC_Catalog.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 3. PC_Catalog\obj\Debug\_03.PC_Catalog.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 3. PC_Catalog\obj\Debug\_03.PC_Catalog.pdb
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 03. PC_Catalog\bin\Debug\_03.PC_Catalog.exe.config
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 03. PC_Catalog\obj\Debug\_03.PC_Catalog.exe
+D:\GitHub\SoftUni_OOP\01. Defining-Classes-Homework\Problem 03. PC_Catalog\obj\Debug\_03.PC_Catalog.pdb
