@@ -1,0 +1,10 @@
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_03.Paths.exe.config
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\obj\Debug\_03.Paths.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\obj\Debug\_03.Paths.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_03.Paths.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_03.Paths.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_01.Point3D.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_02.DistanceCalculator.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_01.Point3D.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_02.DistanceCalculator.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\obj\Debug\Problem 03. Paths.csprojResolveAssemblyReference.cache

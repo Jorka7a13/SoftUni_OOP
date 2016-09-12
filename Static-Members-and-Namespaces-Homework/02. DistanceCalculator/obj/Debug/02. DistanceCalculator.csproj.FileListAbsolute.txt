@@ -1,8 +1,0 @@
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.exe.config
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.exe
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.pdb
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\obj\Debug\_02.DistanceCalculator.exe
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\obj\Debug\_02.DistanceCalculator.pdb
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\bin\Debug\_01.Point3D.exe
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\bin\Debug\_01.Point3D.pdb
-c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\02. DistanceCalculator\obj\Debug\02. DistanceCalculator.csprojResolveAssemblyReference.cache

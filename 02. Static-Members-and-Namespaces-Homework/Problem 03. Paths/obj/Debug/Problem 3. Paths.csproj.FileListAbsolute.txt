@@ -1,0 +1,3 @@
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\bin\Debug\_03.Paths.exe.config
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\obj\Debug\_03.Paths.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 03. Paths\obj\Debug\_03.Paths.pdb

@@ -1,0 +1,9 @@
+c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\01. Point3D\bin\Debug\_01.Point3D.exe.config
+c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\01. Point3D\bin\Debug\_01.Point3D.exe
+c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\01. Point3D\bin\Debug\_01.Point3D.pdb
+c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\01. Point3D\obj\Debug\01. Point3D.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\01. Point3D\obj\Debug\_01.Point3D.exe
+c:\users\george\documents\visual studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\01. Point3D\obj\Debug\_01.Point3D.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\bin\Debug\_01.Point3D.exe.config
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\obj\Debug\_01.Point3D.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 1. Point3D\obj\Debug\_01.Point3D.pdb

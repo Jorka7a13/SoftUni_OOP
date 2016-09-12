@@ -1,0 +1,9 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\04. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\04. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\04. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\04. HTMLDispatcher\obj\Debug\04. HTMLDispatcher.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\04. HTMLDispatcher\obj\Debug\_04.HTMLDispatcher.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Static-Members-and-Namespaces-Homework\04. HTMLDispatcher\obj\Debug\_04.HTMLDispatcher.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 4. HTMLDispatcher\bin\Debug\_04.HTMLDispatcher.exe.config
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 4. HTMLDispatcher\obj\Debug\_04.HTMLDispatcher.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 4. HTMLDispatcher\obj\Debug\_04.HTMLDispatcher.pdb

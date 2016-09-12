@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 01. Point3D\bin\Debug\_01.Point3D.exe.config
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 01. Point3D\bin\Debug\_01.Point3D.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 01. Point3D\bin\Debug\_01.Point3D.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 01. Point3D\obj\Debug\Problem 01. Point3D.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 01. Point3D\obj\Debug\_01.Point3D.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 01. Point3D\obj\Debug\_01.Point3D.pdb

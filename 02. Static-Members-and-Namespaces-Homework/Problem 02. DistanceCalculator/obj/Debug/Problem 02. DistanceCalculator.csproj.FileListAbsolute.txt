@@ -1,0 +1,8 @@
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.exe.config
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\bin\Debug\_01.Point3D.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\bin\Debug\_01.Point3D.pdb
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\obj\Debug\Problem 02. DistanceCalculator.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\obj\Debug\_02.DistanceCalculator.exe
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 02. DistanceCalculator\obj\Debug\_02.DistanceCalculator.pdb

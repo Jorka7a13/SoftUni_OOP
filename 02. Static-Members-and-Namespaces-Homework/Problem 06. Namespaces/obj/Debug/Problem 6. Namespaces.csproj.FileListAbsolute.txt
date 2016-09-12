@@ -1,0 +1,1 @@
+D:\GitHub\SoftUni_OOP\02. Static-Members-and-Namespaces-Homework\Problem 06. Namespaces\bin\Debug\_06.Namespaces.exe.config
