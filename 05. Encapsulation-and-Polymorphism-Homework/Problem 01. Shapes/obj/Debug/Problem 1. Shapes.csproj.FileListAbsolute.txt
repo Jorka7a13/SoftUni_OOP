@@ -1,0 +1,3 @@
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 01. Shapes\bin\Debug\_01.Shapes.exe.config
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 01. Shapes\obj\Debug\_01.Shapes.exe
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 01. Shapes\obj\Debug\_01.Shapes.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe.config
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.exe
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.pdb
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.pdb
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 02. BankOfKurtovoKonare\obj\Debug\Problem 02. BankOfKurtovoKonare.csprojResolveAssemblyReference.cache

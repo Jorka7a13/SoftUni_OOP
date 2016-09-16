@@ -1,0 +1,7 @@
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 3. TheSlum\bin\Debug\TheSlum.exe
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 3. TheSlum\bin\Debug\TheSlum.pdb
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 3. TheSlum\obj\Debug\Problem 3. TheSlum.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 3. TheSlum\obj\Debug\TheSlum.exe
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 3. TheSlum\obj\Debug\TheSlum.pdb
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 03. TheSlum\obj\Debug\TheSlum.exe
+D:\GitHub\SoftUni_OOP\05. Encapsulation-and-Polymorphism-Homework\Problem 03. TheSlum\obj\Debug\TheSlum.pdb
