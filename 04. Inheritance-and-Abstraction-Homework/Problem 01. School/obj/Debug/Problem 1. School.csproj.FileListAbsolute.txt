@@ -1,0 +1,2 @@
+D:\GitHub\SoftUni_OOP\04. Inheritance-and-Abstraction-Homework\Problem 1. School\bin\Debug\_01.School.exe.config
+D:\GitHub\SoftUni_OOP\04. Inheritance-and-Abstraction-Homework\Problem 01. School\bin\Debug\_01.School.exe.config

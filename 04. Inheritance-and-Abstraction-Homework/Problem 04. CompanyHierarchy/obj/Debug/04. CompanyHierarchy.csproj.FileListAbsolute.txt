@@ -1,0 +1,9 @@
+c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe.config
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\04. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.pdb
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\04. CompanyHierarchy\obj\Debug\04. CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\04. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.exe
+C:\Users\George\Documents\Visual Studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\04. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.pdb
+D:\GitHub\SoftUni_OOP\04. Inheritance-and-Abstraction-Homework\Problem 4. CompanyHierarchy\bin\Debug\_04.CompanyHierarchy.exe.config
+D:\GitHub\SoftUni_OOP\04. Inheritance-and-Abstraction-Homework\Problem 4. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.exe
+D:\GitHub\SoftUni_OOP\04. Inheritance-and-Abstraction-Homework\Problem 4. CompanyHierarchy\obj\Debug\_04.CompanyHierarchy.pdb

@@ -1,6 +1,0 @@
-c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\03. Animals\bin\Debug\_03.Animals.exe.config
-c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\03. Animals\bin\Debug\_03.Animals.exe
-c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\03. Animals\bin\Debug\_03.Animals.pdb
-c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\03. Animals\obj\Debug\03. Animals.csprojResolveAssemblyReference.cache
-c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\03. Animals\obj\Debug\_03.Animals.exe
-c:\users\george\documents\visual studio 2013\Projects\OOP\Inheritance-and-Abstraction-Homework\03. Animals\obj\Debug\_03.Animals.pdb
