@@ -1,0 +1,12 @@
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\02. FractionCalculator\bin\Debug\_02.FractionCalculator.exe.config
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\02. FractionCalculator\bin\Debug\_02.FractionCalculator.exe
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\02. FractionCalculator\bin\Debug\_02.FractionCalculator.pdb
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\02. FractionCalculator\obj\Debug\_02.FractionCalculator.exe
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\02. FractionCalculator\obj\Debug\_02.FractionCalculator.pdb
+c:\users\george\documents\visual studio 2013\Projects\OOP\Other-Types-in-OOP-Homework\02. FractionCalculator\obj\Debug\02. FractionCalculator.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_OOP\06. Other-Types-in-OOP-Homework\Problem 2. FractionCalculator\bin\Debug\_02.FractionCalculator.exe.config
+D:\GitHub\SoftUni_OOP\06. Other-Types-in-OOP-Homework\Problem 2. FractionCalculator\obj\Debug\_02.FractionCalculator.exe
+D:\GitHub\SoftUni_OOP\06. Other-Types-in-OOP-Homework\Problem 2. FractionCalculator\obj\Debug\_02.FractionCalculator.pdb
+D:\GitHub\SoftUni_OOP\06. Other-Types-in-OOP-Homework\Problem 02. FractionCalculator\bin\Debug\_02.FractionCalculator.exe.config
+D:\GitHub\SoftUni_OOP\06. Other-Types-in-OOP-Homework\Problem 02. FractionCalculator\obj\Debug\_02.FractionCalculator.exe
+D:\GitHub\SoftUni_OOP\06. Other-Types-in-OOP-Homework\Problem 02. FractionCalculator\obj\Debug\_02.FractionCalculator.pdb
