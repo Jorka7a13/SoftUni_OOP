@@ -7,3 +7,9 @@ C:\Users\George\Desktop\Console-Forum-Skeleton\obj\Debug\ConsoleForum.pdb
 D:\Programming\OOP\SoftUni OOP Exam - 01.03.2015\Problem 1. Console Forum\Console-Forum-Solution\bin\Debug\ConsoleForum.exe.config
 D:\Programming\OOP\SoftUni OOP Exam - 01.03.2015\Problem 1. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.exe
 D:\Programming\OOP\SoftUni OOP Exam - 01.03.2015\Problem 1. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.pdb
+D:\GitHub\SoftUni_OOP\OOP-1-March-2015-Exam\Problem 01. Console Forum\Console-Forum-Solution\bin\Debug\ConsoleForum.exe.config
+D:\GitHub\SoftUni_OOP\OOP-1-March-2015-Exam\Problem 01. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.exe
+D:\GitHub\SoftUni_OOP\OOP-1-March-2015-Exam\Problem 01. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.pdb
+D:\GitHub\SoftUni_OOP\OOP-1-March-2015-Exam\Problem 01. Console Forum\Console-Forum-Solution\bin\Debug\ConsoleForum.exe
+D:\GitHub\SoftUni_OOP\OOP-1-March-2015-Exam\Problem 01. Console Forum\Console-Forum-Solution\bin\Debug\ConsoleForum.pdb
+D:\GitHub\SoftUni_OOP\OOP-1-March-2015-Exam\Problem 01. Console Forum\Console-Forum-Solution\obj\Debug\ConsoleForum.csprojResolveAssemblyReference.cache
