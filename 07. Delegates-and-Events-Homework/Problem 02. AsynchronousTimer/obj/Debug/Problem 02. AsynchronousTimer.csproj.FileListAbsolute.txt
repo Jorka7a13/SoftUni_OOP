@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni_OOP\07. Delegates-and-Events-Homework\Problem 02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.exe.config
+D:\GitHub\SoftUni_OOP\07. Delegates-and-Events-Homework\Problem 02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.exe
+D:\GitHub\SoftUni_OOP\07. Delegates-and-Events-Homework\Problem 02. AsynchronousTimer\bin\Debug\_02.AsynchronousTimer.pdb
+D:\GitHub\SoftUni_OOP\07. Delegates-and-Events-Homework\Problem 02. AsynchronousTimer\obj\Debug\Problem 02. AsynchronousTimer.csprojResolveAssemblyReference.cache
+D:\GitHub\SoftUni_OOP\07. Delegates-and-Events-Homework\Problem 02. AsynchronousTimer\obj\Debug\_02.AsynchronousTimer.exe
+D:\GitHub\SoftUni_OOP\07. Delegates-and-Events-Homework\Problem 02. AsynchronousTimer\obj\Debug\_02.AsynchronousTimer.pdb

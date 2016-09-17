@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. InterestCalculator", "01. InterestCalculator\01. InterestCalculator.csproj", "{0F1EE4CD-57C8-40BA-BBDF-6D4C6F4D4F3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01. InterestCalculator", "Problem 01. InterestCalculator\Problem 01. InterestCalculator.csproj", "{0F1EE4CD-57C8-40BA-BBDF-6D4C6F4D4F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. AsynchronousTimer", "02. AsynchronousTimer\02. AsynchronousTimer.csproj", "{7AF972A1-55CF-4C89-9437-A537DE122E00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02. AsynchronousTimer", "Problem 02. AsynchronousTimer\Problem 02. AsynchronousTimer.csproj", "{7AF972A1-55CF-4C89-9437-A537DE122E00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
